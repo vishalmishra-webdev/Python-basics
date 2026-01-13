@@ -12,3 +12,6 @@ This repository contains basic Python programs and exercises to practice and str
 1. Clone the repository
 2. Open Python files in your IDE
 3. Run the scripts to practice and learn
+## Demo / Output
+
+![Number Guessing Game Output](number_guess_output.png)
